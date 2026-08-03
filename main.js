@@ -40,7 +40,7 @@ const searchMovies = ({Poster: poster, Title: title, Year: year, Type: type}) =>
     item.classList.add('search-item')
 
     img.classList.add('search-img')
-    img.src = (poster && poster !== 'N/A') ? poster : '../images/image-not-found.webp'
+    img.src = (poster && poster !== 'N/A') ? poster : 'src/images/image-not-found.webp'
     img.alt = `${title} ${year} ${type}`
     img.title = `${title} ${year} ${type}`
 

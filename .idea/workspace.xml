@@ -12,15 +12,71 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="7" />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="4.9425275350846957E-5" />
+      <entry key="MS500" value="0.3934713351524093" />
+      <entry key="S2" value="2.2334907774887416" />
+      <entry key="S5" value="3.167577594488917" />
+      <entry key="S10" value="3.5630875222952954" />
+      <entry key="S30" value="4.16936935221806" />
+      <entry key="S60" value="4.949395596429369" />
+      <entry key="M2" value="6.043487112336238" />
+      <entry key="M5" value="7.677043290462171" />
+      <entry key="M10" value="8.644824398978761" />
+      <entry key="M15" value="9.045746684654038" />
+      <entry key="M30" value="9.4951821083809" />
+      <entry key="H1" value="9.740200838382886" />
+      <entry key="H2" value="9.868190845626335" />
+      <entry key="H4" value="9.93361004042545" />
+      <entry key="D1" value="9.988866903140703" />
+      <entry key="W1" value="9.99840788068185" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0000409599847013" />
+      <entry key="MS500" value="1.3646700096751265" />
+      <entry key="S2" value="3.183614663230163" />
+      <entry key="S5" value="4.138099884160628" />
+      <entry key="S10" value="4.546260512036003" />
+      <entry key="S30" value="5.162200992916606" />
+      <entry key="S60" value="5.944554625714234" />
+      <entry key="M2" value="7.040087786261171" />
+      <entry key="M5" value="8.675043063640757" />
+      <entry key="M10" value="9.6436266198495" />
+      <entry key="M15" value="10.044892883241737" />
+      <entry key="M30" value="10.49472403442054" />
+      <entry key="H1" value="10.739963267487799" />
+      <entry key="H2" value="10.868069826591654" />
+      <entry key="H4" value="10.93354895949548" />
+      <entry key="D1" value="10.98885664249395" />
+      <entry key="W1" value="10.998406412889057" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2,
@@ -31,29 +87,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "javascript.preferred.runtime.type.id": "node",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/beyba/Alina-Linux/AlinaALL/MY/HILLEL/Homework/js-hw15",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/beyba/Alina-Linux/AlinaALL/MY/HILLEL/Homework/js-hw15&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -77,6 +133,7 @@
       <workItem from="1785772669343" duration="144000" />
       <workItem from="1785773290528" duration="328000" />
       <workItem from="1785773761861" duration="1240000" />
+      <workItem from="1785786769514" duration="332000" />
     </task>
     <servers />
   </component>
