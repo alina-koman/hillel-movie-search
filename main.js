@@ -5,7 +5,7 @@ const searchCheckbox = document.querySelector('.search-checkbox')
 const TIMER = 2000
 let timerId = 0
 
-const LiveSearch = (url) =>
+const liveSearch = (url) =>
     fetch(url)
         .then((res) => res.json())
         .then((data) => data.Search)
@@ -15,7 +15,7 @@ const changeHandler = () => { if (!searchCheckbox.checked) searchBox.innerHTML =
 
 const timerInput = (input) => {
     timerId = setTimeout(() => {
-        LiveSearch(`https://www.omdbapi.com/?apikey=72ff0777&s=${input}`).then((movies) => {
+        liveSearch(`https://www.omdbapi.com/?apikey=72ff0777&s=${input}`).then((movies) => {
             if (!movies) return
                 changeHandler()
             movies.forEach((movie) => searchMovies(movie))
